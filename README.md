@@ -44,12 +44,6 @@ End-to-end churn risk scoring pipeline using SQL window functions, Excel-based c
 
 ---
 
-### 🟣 Resume Analytics & Job Fit Scoring Platform
-Streamlit app that parses resumes, extracts skills via NLP, and scores fit against job descriptions using ATS-style keyword matching — helping candidates optimize applications before submission.
-`Python` `Streamlit` `NLP`
-
----
-
 ### 🟡 Interactive Data Analysis & Visualization Platform
 Upload-and-analyze platform that auto-generates EDA reports, statistical summaries, and business-ready charts from raw CSV/Excel files — zero setup required.
 `Python` `Pandas` `Matplotlib`
